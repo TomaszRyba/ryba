@@ -1,0 +1,3 @@
+06c8c51 was Tomasz Ryba, 2 minutes ago, message: ignorowanie.doc
+344fb73 was Tomasz Ryba, 16 minutes ago, message: first commit
+320fa15 was Tomasz Ryba, 16 minutes ago, message: first commit
